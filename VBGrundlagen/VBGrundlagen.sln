@@ -5,6 +5,11 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBOne", "VBOne\VBOne.vbproj", "{D355C9A8-7419-47AC-B8EC-C90D57BA6858}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D1C3DAF9-6224-4008-8166-783CFD039AB0}"
+	ProjectSection(SolutionItems) = preProject
+		Links und Infos.txt = Links und Infos.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
