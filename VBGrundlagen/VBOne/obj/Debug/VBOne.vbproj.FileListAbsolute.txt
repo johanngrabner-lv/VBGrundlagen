@@ -1,0 +1,11 @@
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\bin\Debug\VBOne.exe.config
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\bin\Debug\VBOne.exe
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\bin\Debug\VBOne.pdb
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\bin\Debug\VBOne.xml
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.vbprojAssemblyReference.cache
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.Resources.resources
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.vbproj.GenerateResource.cache
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.vbproj.CoreCompileInputs.cache
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.exe
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.xml
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.pdb
