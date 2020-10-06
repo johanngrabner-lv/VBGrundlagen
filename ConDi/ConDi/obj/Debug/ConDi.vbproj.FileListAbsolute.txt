@@ -1,0 +1,11 @@
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\bin\Debug\ConDi.exe.config
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\bin\Debug\ConDi.exe
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\bin\Debug\ConDi.pdb
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\bin\Debug\ConDi.xml
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\obj\Debug\ConDi.vbprojAssemblyReference.cache
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\obj\Debug\ConDi.Resources.resources
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\obj\Debug\ConDi.vbproj.GenerateResource.cache
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\obj\Debug\ConDi.vbproj.CoreCompileInputs.cache
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\obj\Debug\ConDi.exe
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\obj\Debug\ConDi.xml
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\ConDi\ConDi\obj\Debug\ConDi.pdb
