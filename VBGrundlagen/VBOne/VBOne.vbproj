@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D355C9A8-7419-47AC-B8EC-C90D57BA6858}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>VBOne.Rechtecksberechnung</StartupObject>
+    <StartupObject>VBOne.Module1</StartupObject>
     <RootNamespace>VBOne</RootNamespace>
     <AssemblyName>VBOne</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -88,6 +88,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Rechteck.vb" />
     <Compile Include="Rechtecksberechnung.vb" />
   </ItemGroup>
   <ItemGroup>
