@@ -1,7 +1,7 @@
 ﻿Module Module1
 
     Sub Main()
-        Console.WriteLine("Hello Andritz from Graz")
+        Console.WriteLine("Hello Andritz from Graz V2")
 
         Dim r1 As New Rechteck
 

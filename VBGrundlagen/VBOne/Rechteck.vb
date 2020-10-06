@@ -1,4 +1,4 @@
-﻿Public Class Rechteck
+﻿Public Class rechteck
 
     Public laenge As Integer
     Public breite As Integer
