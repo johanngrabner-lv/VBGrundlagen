@@ -2,7 +2,7 @@
 <doc>
 <assembly>
 <name>
-VBOne
+VBWiederholung
 </name>
 </assembly>
 <members>
@@ -21,6 +21,12 @@ VBOne
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
+</member>
+<member name="M:VBOne.ModulWiederholung.Berechne(System.Int16)">
+ <summary>
+ Das ist eine Demoberechnung
+ </summary>
+ <param name="i">bitte den Wert eingeben</param>
 </member>
 </members>
 </doc>

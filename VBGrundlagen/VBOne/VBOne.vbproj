@@ -6,9 +6,9 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D355C9A8-7419-47AC-B8EC-C90D57BA6858}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>VBOne.Module1</StartupObject>
+    <StartupObject>VBOne.ModulKreisberechnung</StartupObject>
     <RootNamespace>VBOne</RootNamespace>
-    <AssemblyName>VBOne</AssemblyName>
+    <AssemblyName>VBWiederholung</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
@@ -23,7 +23,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>VBOne.xml</DocumentationFile>
+    <DocumentationFile>VBWiederholung.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -33,7 +33,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>VBOne.xml</DocumentationFile>
+    <DocumentationFile>VBWiederholung.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
@@ -72,6 +72,7 @@
   <ItemGroup>
     <Compile Include="Maschinenberechnung.vb" />
     <Compile Include="Module1.vb" />
+    <Compile Include="ModulKreisberechnung.vb" />
     <Compile Include="ModulWiederholung.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
