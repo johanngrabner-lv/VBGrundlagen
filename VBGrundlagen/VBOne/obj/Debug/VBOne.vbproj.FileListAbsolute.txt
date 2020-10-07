@@ -1,4 +1,3 @@
-C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.vbprojAssemblyReference.cache
 C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.Resources.resources
 C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.vbproj.GenerateResource.cache
 C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.vbproj.CoreCompileInputs.cache
@@ -9,3 +8,4 @@ C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\bin\Debug\VBWiede
 C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBWiederholung.exe
 C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBWiederholung.xml
 C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBWiederholung.pdb
+C:\Users\xxgrabnj\source\repos\VBGrundlagen\VBGrundlagen\VBOne\obj\Debug\VBOne.vbprojAssemblyReference.cache
