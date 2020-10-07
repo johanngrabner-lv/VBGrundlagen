@@ -1,5 +1,5 @@
 ﻿Module ModulKreisberechnung
-
+    'Kommentar
     Public Const PI As Double = 3.14
     Sub main()
         Dim umfang As Double, flaeche As Double, radius As Double
