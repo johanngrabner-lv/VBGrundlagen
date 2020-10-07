@@ -34,7 +34,8 @@ Module ModulMenueEnum
                 price = 12
         End Select
 
-        Console.WriteLine("Sie haben gewählt {0}  der Preis ist {1:0.00}", eingabeAsMenueEnum, price)
+        Console.WriteLine("Sie haben gewählt {0} {2}  der Preis ist {1:0.00}", eingabeAsMenueEnum,
+                          price, CInt(eingabeAsMenueEnum))
 
 
 
