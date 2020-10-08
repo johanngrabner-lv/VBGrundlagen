@@ -1,5 +1,8 @@
 ﻿Module ModulArrayList
 
+    Class Person
+
+    End Class
     Sub main()
         Dim mitarbeiterListe As New ArrayList
 
@@ -16,6 +19,14 @@
         salmons.Add("sockeye")
 
         salmons.Add(12)
+
+        Dim kunden As New Dictionary(Of Integer, String)
+        kunden.Add(12, "Johann")
+        kunden.Add(7, "David")
+
+
+
+        Dim personen As New Dictionary(Of Integer, Person)
 
     End Sub
 
