@@ -17,6 +17,7 @@ Module ModulFehlerbehandlung
 
         Catch ex As MaschineUeberhitztException
             Console.WriteLine(ex.Message)
+        Catch ex As DivideByZeroException
         End Try
 
 
