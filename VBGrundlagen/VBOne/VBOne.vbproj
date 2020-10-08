@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D355C9A8-7419-47AC-B8EC-C90D57BA6858}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>VBOne.ModulSubAndFunctions</StartupObject>
+    <StartupObject>VBOne.ModulMatheUebung</StartupObject>
     <RootNamespace>VBOne</RootNamespace>
     <AssemblyName>VBWiederholung</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -73,6 +73,7 @@
     <Compile Include="Maschinenberechnung.vb" />
     <Compile Include="Module1.vb" />
     <Compile Include="ModulEnum.vb" />
+    <Compile Include="ModuleWiederholungDonnerstag.vb" />
     <Compile Include="ModulKontrollfluss.vb" />
     <Compile Include="ModulKreisberechnung.vb" />
     <Compile Include="ModulMatheUebung.vb" />
