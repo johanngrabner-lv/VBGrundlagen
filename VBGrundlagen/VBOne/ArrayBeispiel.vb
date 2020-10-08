@@ -7,6 +7,7 @@
     'Bitte geben Sie den 1. Mitarbeiter
     ' bitte geben Sie den 2.
     ' Mitarbeiter: Helmut, David, Ivan
+    '12:00 Uhr gemeinsame Auflösung
     Sub main()
         Dim zahlen() As Integer
         ReDim zahlen(5)
