@@ -14,7 +14,7 @@ Module ModulMitarbeiterInnenVerwaltung
 
         anzahl = Console.ReadLine()
 
-        ReDim mitarbeiterInnen(anzahl - 1)
+        ReDim Preserve mitarbeiterInnen(anzahl - 1)
 
 
         Eingabe(mitarbeiterInnen)
@@ -28,6 +28,7 @@ Module ModulMitarbeiterInnenVerwaltung
         'Console.WriteLine("Bitte geben Sie den {0}. Namen ein", (i + 1))
         'm(i) = Console.ReadLine()
         'Next
+
         Dim counter As Integer = 0
         For Each mitarbeiter In m
             Console.WriteLine("Bitte geben Sie den Namen ein")
