@@ -88,6 +88,14 @@
         End Function
     End Class
 
+    'dim a1 as new Auto()
+    'a1.Farbe = "Grau"
+    'a1.AktuelleGeschwindigkeite=20
+    'a1.GasGeben()
+    'a1.Bremsen()
+    'a1.PrintInfo() -- Das Auto ist Grau und fährt aktuell 17 kmH
+    '14:30 Uhr Auflösung
+
 
 
 End Module
